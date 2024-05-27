@@ -2,6 +2,11 @@
 /*.iml
 /out
 /nbproject
+#Eclipse metadata ignore
+/.eclipse
+/.project
+/.metadata
+/.settings
 
 /errors
 /crash-reports
