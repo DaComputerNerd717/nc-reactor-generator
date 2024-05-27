@@ -7,6 +7,7 @@
 /.project
 /.metadata
 /.settings
+/.classpath
 
 /errors
 /crash-reports
@@ -30,3 +31,4 @@
 /manifest.mf
 /dist/
 /build/
+/bin/
