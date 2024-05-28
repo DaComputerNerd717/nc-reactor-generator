@@ -32,3 +32,6 @@
 /dist/
 /build/
 /bin/
+libraries/JDA-4.3.0_277-withDependencies-min.jar
+libraries/dssl-3.0.jar
+libraries/dssl-4.2.jar
